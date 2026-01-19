@@ -1,15 +1,15 @@
-#🚀 Enterprise Networking Mini Project – Cisco Packet Tracer
+🚀 Enterprise Networking Mini Project – Cisco Packet Tracer
 
 I recently completed a small Enterprise Networking Project using Cisco Packet Tracer, where I designed and configured a multi-department network with VLANs, wireless access, and inter-VLAN routing.
 
-🔹Project Summary
+Project Summary
 The network included three departments:
  • Admin/IT – VLAN 20
  • Finance/HR – VLAN 30
  • Reception – VLAN 40
 Each department received its own subnet, WiFi network, and automatic IP allocation.
 
-🔧Technical Highlights
+Technical Highlights
 • VLAN Segmentation: Configured VLANs 20/30/40 for secure traffic separation.
  • Inter-VLAN Routing: Implemented Router-on-a-Stick using dot1q sub-interfaces.
  • DHCP Pools: Provided dynamic IP addressing per department.
